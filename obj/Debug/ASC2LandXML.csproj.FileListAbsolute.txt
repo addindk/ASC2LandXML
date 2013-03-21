@@ -1,0 +1,9 @@
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\bin\Debug\ASC2LandXML.exe.config
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\bin\Debug\ASC2LandXML.exe
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\bin\Debug\ASC2LandXML.pdb
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.csprojResolveAssemblyReference.cache
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.Form1.resources
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.Properties.Resources.resources
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.csproj.GenerateResource.Cache
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.exe
+C:\Develop\bentley\ASC2LandXML\ASC2LandXML\obj\Debug\ASC2LandXML.pdb
