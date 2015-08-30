@@ -1,6 +1,6 @@
 ASC2LandXML
 ===========
-Konvertere ESRI ASCII Grid fil til LandXML fil.
+Konverterer ESRI ASCII Grid fil til LandXML fil.
 ###Installation
 Download projektet ved at trykke på zip knappen.
 
